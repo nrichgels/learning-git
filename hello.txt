@@ -1,1 +1,4 @@
-what's up
+for (int i in awesome)
+{
+print "cool stuff";
+}
